@@ -1,0 +1,24 @@
+._link {
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+._notify {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    background-color: red;
+    height: 30px;
+    width: 30x;
+    border-radius: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+._header {
+    box-sizing: border-box;
+}

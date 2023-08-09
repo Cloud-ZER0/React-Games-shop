@@ -1,0 +1,10 @@
+._rounded {
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: red;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-right: 10px;
+}
